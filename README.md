@@ -8,7 +8,6 @@ An interactive Tableau dashboard analyzing 7 major tech stocks — AAPL, NVDA, P
 - **Cumulative Returns Bar Chart** — Visualize each stock’s total percentage gain/loss.
 - **Boxplots of Daily Returns** — Explore volatility across stocks.
 - **Weekday Volume Heatmap** — Identify which stocks spike on which days.
-- **KPI Insights** — Highlight top performer, worst performer, and volume anomalies.
 
 ## 🛠️ Tools Used
 - **Tableau** — Interactive dashboards & visualizations  
