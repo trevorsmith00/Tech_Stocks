@@ -31,4 +31,4 @@ An interactive Tableau dashboard analyzing 7 major tech stocks — AAPL, NVDA, P
 
 ## 🧑‍💼 About the Author
 **Trevor Smith** — Data Analytics/Science Student @ University of Arizona  
-📫 [LinkedIn](https://www.linkedin.com/in/trevorsmith00) • [Portfolio](N/A)
+📫 [LinkedIn](https://www.linkedin.com/in/trevorsmith00)
