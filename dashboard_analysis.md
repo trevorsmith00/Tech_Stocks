@@ -1,8 +1,8 @@
-## 📊 In-Depth Chart-by-Chart Analysis: Tech Stocks Performance 2025
+##  In-Depth Chart-by-Chart Analysis: Tech Stocks Performance 2025
 
 ---
 
-### 🔹 1. Closing Prices (Line Chart)
+###  1. Closing Prices (Line Chart)
 
 **What it shows:**
 Tracks the **daily closing prices** for 7 major tech stocks from March to July 2025.
@@ -19,7 +19,7 @@ This chart provides a clear comparative baseline for absolute price behavior, bu
 
 ---
 
-### 🔹 2. Cumulative Return % (Bar Chart)
+### 2. Cumulative Return % (Bar Chart)
 
 **What it shows:**
 Visualizes each stock’s **total percentage return** from March 1 to July 31, normalized to show gain/loss over time.
@@ -35,7 +35,7 @@ PLTR and NVDA far outperformed peers, despite starting from lower price baseline
 
 ---
 
-### 🔹 3. Average Weekday Volume (Heatmap)
+###  3. Average Weekday Volume (Heatmap)
 
 **What it shows:**
 Average trading volume per stock across weekdays — from Monday to Friday — using relative shading (dark = high volume).
@@ -51,7 +51,7 @@ This reveals behavioral patterns — e.g., **investors may be timing entries/exi
 
 ---
 
-### 🔹 4. Daily Returns & Volatility (Boxplot)
+###  4. Daily Returns & Volatility (Boxplot)
 
 **What it shows:**
 Distribution of **daily percentage returns** for each stock — measuring **volatility** and **outlier events**.
@@ -67,7 +67,7 @@ This chart is critical for **risk assessment**. High return (PLTR) also comes wi
 
 ---
 
-## 🧠 Dashboard-Level Insights Summary:
+##  Dashboard-Level Insights Summary:
 
 * **PLTR**: Top-performing stock by cumulative return, but also the most volatile.
 * **NVDA**: Strong growth with consistently high trading volume and notable Thursday activity — likely driven by investor sentiment around AI.
