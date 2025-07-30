@@ -14,9 +14,9 @@ An interactive Tableau dashboard analyzing 7 major tech stocks — AAPL, NVDA, P
 - **Excel/CSV** — Data preparation  
 - **Alpha Vantage API** — Source for stock data
 
-## 📎 Dashboard Preview
+## 📎 Dashboard 
 
-![Dashboard Preview](./dashboard_screenshot.png)
+![Dashboard Preview](./dashboard_screenshot.png) ![Full Analysis](./dashboard_analysis.md)
 
 
 
