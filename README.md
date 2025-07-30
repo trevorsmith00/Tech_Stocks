@@ -1,27 +1,34 @@
-# Tech_Stocks
-📌 Project Title: Tech Stock Performance & Volume Insights (March–July 2025)
+# 📈 Tech Stocks Performance Dashboard (March–July 2025)
 
-📊 Tools Used: Tableau, Excel, Alpha Vantage API
+An interactive Tableau dashboard analyzing 7 major tech stocks — AAPL, NVDA, PLTR, MSFT, META, GOOGL, CRM — across performance, volatility, and trading volume from March to July 2025.
 
-📈 Project Goals:
-- Compare stock performance across AAPL, NVDA, PLTR, etc.
-- Analyze volume trends by weekday and correlation with price spikes
-- Identify best/worst performers and visualize risk (volatility)
+## 🔍 Key Features
 
-📎 Key Visuals:
-- Normalized Performance Index Chart
-- Volume Heatmap by Weekday
-- Cumulative Return Bar Chart
-- Boxplot of Daily Returns per Stock
-- KPIs for volatility, spikes, and average return
+- **Normalized Closing Prices** — Compare all stocks relative to March 1 starting value.
+- **Cumulative Returns Bar Chart** — Visualize each stock’s total percentage gain/loss.
+- **Boxplots of Daily Returns** — Explore volatility across stocks.
+- **Weekday Volume Heatmap** — Identify which stocks spike on which days.
+- **KPI Insights** — Highlight top performer, worst performer, and volume anomalies.
 
-📍 Insights:
-- PLTR was the highest gainer with ~75% return since March
-- Stocks showed consistent high-volume spikes on Fridays
-- Most volatile stock: PLTR; Least volatile: MSFT
-- Volume correlated with large price swings on key dates
+## 🛠️ Tools Used
+- **Tableau** — Interactive dashboards & visualizations  
+- **Excel/CSV** — Data preparation  
+- **Alpha Vantage API** — Source for stock data
 
-👨‍💻 Takeaway:
-This dashboard helps investors visualize comparative risk and return and identify patterns in volume behavior.
+## 📎 Dashboard Preview
 
-🔗 [Link to dashboard / Tableau Public]
+![Dashboard Screenshot](./Tableau_Dashboard.png)
+
+
+## 📬 Key Insights
+- 📈 **PLTR** had the strongest performance, returning over 75%; However is the most volatile stock
+- 🧊 **MSFT** was the most stable stock with the lowest volatility.
+- 🔥 **NVDA** showed high volume spikes, especially mid-week.
+- 📉 Volume surges often aligned with large price movements.
+
+## 🚀 Live Dashboard
+👉 [View on Tableau Public](https://public.tableau.com/views/Stocks_Dashboard_17538357124920/PerformanceDashboard)
+
+## 🧑‍💼 About the Author
+**Trevor Smith** — Data Analytics/Science Student @ University of Arizona  
+📫 [LinkedIn](https://www.linkedin.com/in/trevorsmith00) • [Portfolio](N/A)
