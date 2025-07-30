@@ -2,7 +2,8 @@
 
 An interactive Tableau dashboard analyzing 7 major tech stocks — AAPL, NVDA, PLTR, MSFT, META, GOOGL, CRM — across performance, volatility, and trading volume from March to July 2025.
 
-Full Analysis [Full Analysis](./dashboard_analysis.md)
+[Full Analysis](./dashboard_analysis.md)
+
 ## 🔍 Key Features
 
 - **Normalized Closing Prices** — Compare all stocks relative to March 1 starting value.
