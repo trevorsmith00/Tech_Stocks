@@ -1,7 +1,12 @@
+import os
 import requests
 import pandas as pd
 
-api_key = "U7WZ8JJP140NAYW2"
+# Read the API key from an environment variable so it is never committed to the repo.
+# Set it before running:  export ALPHAVANTAGE_API_KEY="your_key"   (Windows: setx ALPHAVANTAGE_API_KEY "your_key")
+api_key = os.environ.get("ALPHAVANTAGE_API_KEY")
+if not api_key:
+    raise SystemExit("Missing ALPHAVANTAGE_API_KEY environment variable. Get a free key at https://www.alphavantage.co/support/#api-key")
 symbols = ["AAPL", "MSFT", "GOOGL", "NVDA", "PLTR", "META", "CRM"]
 all_data = []
 
