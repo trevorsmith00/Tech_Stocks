@@ -9,7 +9,7 @@ Tracks the **daily closing prices** for 7 major tech stocks from March to July 2
 
 **Key Insights:**
 
-* **NVDA** maintained the highest price throughout the period, climbing steadily from \~\$700 to \~\$900, suggesting strong market confidence and demand.
+* **META** traded at the highest share price throughout the period, while **NVDA** climbed steadily from about \$117 in early March to about \$174 by late July (roughly +48%), suggesting strong market confidence and demand.
 * **MSFT** followed with stable growth, reflecting typical blue-chip behavior.
 * Other stocks like **PLTR**, **CRM**, and **AAPL** showed more gradual price increases with occasional dips.
 * **GOOGL** had a volatile start but recovered mid-April, indicating a potential earnings event or market correction.
